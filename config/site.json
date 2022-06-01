@@ -1,5 +1,5 @@
 {
-  "userPrincipalName": "3207754367@qq.com",
+  "userPrincipalName": "admin.mpcloud@lmty.onmicrosoft.com",
   "icon": "/favicon.ico",
   "title": "小马不说话's Pan",
   "baseDirectory": "/",
@@ -11,7 +11,7 @@
   ],
   "footer": "Powered by <a href=\"https://github.com/W4J1e/onedrive-vercel-index\" target=\"_blank\" rel=\"noopener noreferrer\">onedrive-vercel-index</a>. Fork build ❤ by <a href=\"https://hin.cool\" target=\"_blank\" rel=\"noopener noreferrer\">W4J1e</a>.",
   "email": "mailto:3207754367@qq.com",
-  "protectedRoutes": ['/🌞 Private folder/u-need-a-password', '/🥟 Some test files/Protected route'],
+  "protectedRoutes": [""],
   "links": [
     {
       "name": "GitHub",
