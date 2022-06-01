@@ -1,7 +1,7 @@
 {
   "userPrincipalName": "3207754367@qq.com",
-  "icon": "/favicon.ico",
-  "title": "W4J1e's Pan",
+  "icon": "https://privacy.mpcloud.top/logo.webp",
+  "title": "小马不说话's Pan",
   "baseDirectory": "/",
   "maxItems": 100,
   "googleFontSans": "Inter",
@@ -10,18 +10,16 @@
     "https://fonts.googleapis.com/css2?family=Fira+Mono&family=Inter:wght@400;500;700&display=swap"
   ],
   "footer": "Powered by <a href=\"https://github.com/W4J1e/onedrive-vercel-index\" target=\"_blank\" rel=\"noopener noreferrer\">onedrive-vercel-index</a>. Fork build ❤ by <a href=\"https://hin.cool\" target=\"_blank\" rel=\"noopener noreferrer\">W4J1e</a>.",
-  "protectedRoutes": [
-    "/Pictures/jk老师"
-  ],
-  "email": "mailto:admin@hin.cool",
+  "protectedRoutes": [],
+  "email": "mailto:3207754367@qq.com",
   "links": [
     {
       "name": "GitHub",
-      "link": "https://github.com/W4J1e/onedrive-vercel-index"
+      "link": "https://github.com/sbmatch/onedrive-vercel-index"
     },
     {
-      "name": "Weibo",
-      "link": "https://hin.cool"
+      "name": "Blog",
+      "link": "https://blog.mpcloud.top"
     }
   ]
 }
