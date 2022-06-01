@@ -1,4 +1,4 @@
-import { IconPrefix, IconName } from '@fortawesome/fontawesome-common-types'
+import { IconName,IconPrefix } from '@fortawesome/fontawesome-svg-core'
 
 const icons: { [key: string]: [IconPrefix, IconName] } = {
   image: ['far', 'file-image'],
