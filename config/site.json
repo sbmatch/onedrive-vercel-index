@@ -2,7 +2,7 @@
   "userPrincipalName": "admin.mpcloud@lmty.onmicrosoft.com",
   "icon": "/favicon.ico",
   "title": "小马不说话's pan",
-  "baseDirectory": "public",
+  "baseDirectory": "/public/",
   "maxItems": 100,
   "googleFontSans": "Inter",
   "googleFontMono": "Fira Mono",
